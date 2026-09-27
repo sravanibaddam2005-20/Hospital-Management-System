@@ -1,0 +1,10 @@
+com\hms\AppointmentController.class
+com\hms\Appointment.class
+com\hms\AppointmentRepository.class
+com\hms\Doctor.class
+com\hms\PatientRepository.class
+com\hms\PatientController.class
+com\hms\DoctorController.class
+com\hms\DoctorRepository.class
+com\hms\HmsApplication.class
+com\hms\Patient.class
